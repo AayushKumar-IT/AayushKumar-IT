@@ -2,7 +2,7 @@
 
 **Java Developer | Backend Engineer | Full-Stack Developer**
 
-Welcome to my GitHub! I'm passionate about building practical, scalable applications with a focus on backend systems, REST APIs, and full-stack development. I specialize in Java-based solutions that solve real-world problems.
+Welcome to my GitHub! I'm passionate about building practical, scalable applications with a focus on backend systems, REST APIs, and full-stack development. I specialize in Java-based solutions that combine performance, architecture, and user-centric design.
 
 ---
 
@@ -105,16 +105,7 @@ A grade management and tracking system for educational institutions.
 
 ---
 
-### 4. **College_Pro**
-A multi-functional college management application handling administrative and academic tasks.
-
-**Tech:** Java | MySQL | Backend Systems
-
-📍 [View Project](https://github.com/AayushKumar-IT/College_Pro)
-
----
-
-### 5. **Online Reservation System**
+### 4. **Online Reservation System**
 A booking and reservation platform for managing reservations efficiently.
 
 **Tech:** Java | MySQL | REST APIs
