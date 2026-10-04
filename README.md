@@ -31,6 +31,7 @@ Welcome to my GitHub! I'm passionate about building practical, scalable applicat
 - Java WebSocket
 - NLP Integration
 - Maven
+- Vercel Deployment
 
 ---
 
@@ -53,20 +54,22 @@ My work spans:
 
 ## 🌟 Featured Projects
 
-### 1. **COLLEGE_PLATFORM**
-A comprehensive full-stack student management system built with modern technologies.
+### 1. **Student Grievance Management System** ⭐
+A full-stack application for managing student grievances and complaints in educational institutions.
 
 **Features:**
-- Secure student registration & authentication (JWT)
-- Real-time attendance tracking
-- Course management
-- Notice board system
-- User profile management
-- Responsive design
+- Student grievance submission & tracking
+- Grievance status management
+- Real-time updates
+- Secure user authentication
+- Responsive web interface
+- Production deployment
 
-**Tech:** Spring Boot | React | MySQL | JWT | REST APIs
+**Tech:** React | Node.js/Backend | Database | REST APIs
 
-📍 [View Project](https://github.com/AayushKumar-IT/COLLEGE_PLATFORM)
+🔗 **Live Demo:** [https://student-grievance-management-system-ten.vercel.app](https://student-grievance-management-system-ten.vercel.app)
+
+📍 [View Project](https://github.com/AayushKumar-IT/Student-Grievance-Management-System)
 
 ---
 
@@ -128,6 +131,7 @@ A booking and reservation platform for managing reservations efficiently.
 - **Database Architecture** — Designing efficient, normalized databases
 - **Authentication & Security** — Implementing secure authentication mechanisms
 - **Real-Time Systems** — WebSocket-based real-time applications
+- **Production Deployment** — Deploying applications to live environments
 
 ---
 
@@ -141,6 +145,7 @@ I follow best practices in:
 - ✅ Error Handling & Logging
 - ✅ Documentation & Code Comments
 - ✅ Version Control (Git)
+- ✅ Production-Ready Code
 
 ---
 
@@ -150,7 +155,7 @@ I follow best practices in:
 - Exploring **advanced database optimization**
 - Building **production-ready full-stack applications**
 - Contributing to **real-world problem solving**
-- Expanding knowledge in **cloud deployment** (AWS/Azure)
+- Expanding knowledge in **cloud deployment** (AWS/Azure/Vercel)
 
 ---
 
@@ -169,7 +174,8 @@ Browse my work:
 - Backend APIs & Services
 - Full-stack web applications
 - Database design implementations
-- Educational & production projects
+- Production-deployed projects
+- Educational & real-world applications
 
 🔗 [All Repositories](https://github.com/AayushKumar-IT?tab=repositories)
 
@@ -177,7 +183,7 @@ Browse my work:
 
 ## 📬 Connect With Me
 
-- **Email:** aayushkumar2718@gmail.com
+- **Email:** aayushkumar2715@gmail.com
 - **LinkedIn:** [Aayush Kumar](https://www.linkedin.com/in/aayushkumarit/)
 - **GitHub:** [@AayushKumar-IT](https://github.com/AayushKumar-IT)
 
@@ -189,6 +195,7 @@ Browse my work:
 - 💻 Full-stack development experience
 - 📚 Continuous learner & problem solver
 - 🔧 8+ projects completed
+- 🚀 Production deployments
 
 ---
 
